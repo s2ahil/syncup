@@ -2,7 +2,7 @@ import React from 'react'
 import { useSelector, useDispatch } from 'react-redux';
 import { useNavigate } from 'react-router-dom';
 import { deleteInterview, setFilter } from '../store/actions';
-import Calendar from './calendar';
+import Calendar from './Calendar';
 import Notification from './Notification';
 const Dashboard = () => {
     const interviews = useSelector(state => state.interviews);
