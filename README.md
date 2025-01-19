@@ -12,8 +12,15 @@ A platform to book meetings
 3. Filter meetings
 
 Installation:
+<br>
 npm i
+<br>
 npm run dev
+
+<br>
+Challenges faced :
+
+Setting up redux and make it functional for my usecase
 
 home: 
 ![image](https://github.com/user-attachments/assets/2f91d401-b2d6-4cea-94c9-14fe39c5ede9)
