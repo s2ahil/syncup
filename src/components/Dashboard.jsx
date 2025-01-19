@@ -52,7 +52,7 @@ const Dashboard = () => {
                 </div>
             </div>
 
-            <div className="grid gap-4 h-[40rem] overflow-y-auto border">
+            <div className="grid gap-4 max-h-[40rem] overflow-y-auto border">
                 {
                     filteredInterviews.slice().reverse().map(interview => (
                     <div key={interview.id} className="bg-white p-4 rounded shadow">
