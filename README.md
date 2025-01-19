@@ -1,5 +1,6 @@
 # syncup
 A platform to book meetings
+Live Link : syncup-indol.vercel.app
 
 Tech stack : react , redux (state management)
 
