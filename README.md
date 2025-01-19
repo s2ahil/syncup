@@ -1,14 +1,15 @@
-# syncup
-A platform to book meetings <br>
-Live Link : syncup-indol.vercel.app
+SyncUp
+A platform to book meetings  
+**Live Link**: [syncup-indol.vercel.app](https://syncup-indol.vercel.app)
 
-Tech stack : react , redux (state management)
+## Tech Stack
+- React
+- Redux (State Management)
 
-Features : 
-
-1, create, update, and delete meetings 
-2, Calendar feature 
-3, filter meetings
+## Features
+1. Create, update, and delete meetings
+2. Calendar feature
+3. Filter meetings
 
 Installation:
 npm i
